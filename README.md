@@ -1,7 +1,7 @@
 clusterapps.oraclelm
 =========
 
-A brief description of the role goes here.
+Install and register client to Oracle Linux Manager
 
 Requirements
 ------------
