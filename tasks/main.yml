@@ -98,9 +98,11 @@
   service:
     name: osad
     enabled: true
-    state: stopped
+    state: started
   tags:
     - osbase
 
 - name: Enable rhn actions
   command: rhn-actions-control --enable-all
+
+  
